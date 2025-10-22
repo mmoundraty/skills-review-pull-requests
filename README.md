@@ -19,7 +19,7 @@ _Collaborate and work together on GitHub._
   Define terms and link to docs.github.com.
 -->
 
-## Step 5: Apply suggested changes
+## Step 5: Apply suggested changes and make sure to press the Add a suggestion button
 
 _Nicely done suggesting changes! :partying_face:_
 
